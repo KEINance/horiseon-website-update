@@ -51,7 +51,9 @@ THEN I find a concise, descriptive title
 
 
 **Asset
+
 [Webpage will include changes shown in mock up including: visual changes for user ease, link accessibility, ect.](./Assets/01-html-css-git-homework-demo.png)
+
 Working Website URL:
 file:///C:/Users/isabel/Desktop/Coding/Challenges/Challenge%201/urban-octo-telegram/Develop/index.html
 Working Website URL:
