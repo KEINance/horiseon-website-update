@@ -1,3 +1,8 @@
+/* have nav bar in row visual */
+/* move  */
+
+
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -75,7 +80,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* position as side bar in line with other content towards top */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,7 +193,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* position footer center and up page more */
 .footer {
     padding: 30px;
     clear: both;
